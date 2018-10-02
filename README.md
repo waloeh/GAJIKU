@@ -1,0 +1,2 @@
+# gaji
+slip gaji
